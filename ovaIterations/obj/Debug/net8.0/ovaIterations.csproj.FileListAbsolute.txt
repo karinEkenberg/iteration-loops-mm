@@ -1,0 +1,14 @@
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\bin\Debug\net8.0\ovaIterations.exe
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\bin\Debug\net8.0\ovaIterations.deps.json
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\bin\Debug\net8.0\ovaIterations.runtimeconfig.json
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\bin\Debug\net8.0\ovaIterations.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\bin\Debug\net8.0\ovaIterations.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\obj\Debug\net8.0\ovaIterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\obj\Debug\net8.0\ovaIterations.AssemblyInfoInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\obj\Debug\net8.0\ovaIterations.AssemblyInfo.cs
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\obj\Debug\net8.0\ovaIterations.csproj.CoreCompileInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\obj\Debug\net8.0\ovaIterations.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\obj\Debug\net8.0\refint\ovaIterations.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\obj\Debug\net8.0\ovaIterations.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\obj\Debug\net8.0\ovaIterations.genruntimeconfig.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovaIterations\obj\Debug\net8.0\ref\ovaIterations.dll
